@@ -20,6 +20,7 @@ Ensure the following software is installed:
 - [Minikube](https://minikube.sigs.k8s.io/docs/start/)
 - [kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl/)
 
+![WhatsApp Image 2024-02-25 at 11 30 33](https://github.com/ShaySabah/Deploying-Microservices-Application-on-Kubernetes/assets/139687184/3096d64b-8a6e-4b79-bc1b-4297a8ac6f12)
 
 
 Application URLs
