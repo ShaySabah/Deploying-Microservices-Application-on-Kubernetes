@@ -3,6 +3,7 @@ Deploying-Microservices-Application-on-Kubernetes
 # Microservices Application Deployment on Kubernetes with Minikube
 
 This repository contains YAML configurations to deploy a microservices application on Kubernetes using Minikube and `kubectl` command-line tools.
+![image](https://github.com/ShaySabah/Deploying-Microservices-Application-on-Kubernetes/assets/139687184/4c1049c0-3100-4517-b8da-0acc1ab7fefa)
 
 ## Overview
 
