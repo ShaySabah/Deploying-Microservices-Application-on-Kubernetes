@@ -16,8 +16,6 @@ This microservices application consists of several components:
 - **Postgres**: Database for storing vote results.
 - **Result App**: Displays the aggregated voting results.
 
-## Prerequisites
-Ensure the following software is installed:
 
 - [Minikube](https://minikube.sigs.k8s.io/docs/start/)
 - [kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl/)
